@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["K3J5TKN682.com.threepound.orbithealth"],
+        "components": [
+          { "/": "/orbit-health-site/w.html", "comment": "A shared workout link opens Orbit Health" }
+        ]
+      }
+    ]
+  }
+}
